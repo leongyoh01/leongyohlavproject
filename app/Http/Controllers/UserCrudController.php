@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers; // Or whatever namespace your application uses
+namespace App\Http\Controllers;
 
 use Backpack\CRUD\app\Http\Controllers\CrudController;
 use Backpack\CRUD\Tests\config\Models\User;
